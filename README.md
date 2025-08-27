@@ -5,5 +5,7 @@ Lấy ip máy tính:
 - Kéo xuống chỗ: Wireless LAN adapter Wi-Fi --> Lấy cái IPv4 Address
 
 Bước 1: mở code, chạy node server-sync.js
+
 Bước 2: Thay tên, password wifi thành cái chung
+
 Bước 3: Chạy code
