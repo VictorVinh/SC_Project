@@ -1,4 +1,4 @@
-Mạch điện: https://wokwi.com/projects/440446253509634049
+Mạch điện: https://wokwi.com/projects/440454797835635713
 
 Tải node.js: https://www.youtube.com/watch?v=YfC8tEfjKCM
 
